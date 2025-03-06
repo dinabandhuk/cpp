@@ -1,6 +1,7 @@
 # cpp
 
-Learning c++ test driven development
+Learning c++ test driven development.\
+Halted, Might continue later if I need to grasp tests like this book approaches them.
 
 ## Important points
 
